@@ -22,6 +22,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
   return (
     <html lang="ru" className="bg-background">
       <head>
+        <meta name="yandex-verification" content="75f27184aea87bfe" />
         <meta name="author" content="La Casino" />
         <meta name="format-detection" content="telephone=no" />
         <link rel="canonical" href="https://la11casino.vercel.app/" />
